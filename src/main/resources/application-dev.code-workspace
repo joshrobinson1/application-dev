@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../.."
+		}
+	],
+	"settings": {
+		"IDX.aI.enableInlineCompletion": true,
+		"IDX.aI.enableCodebaseIndexing": true,
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
